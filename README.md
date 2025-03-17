@@ -1,0 +1,2 @@
+# GenNews
+Graduation project
